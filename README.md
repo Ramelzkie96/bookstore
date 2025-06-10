@@ -22,12 +22,12 @@ This book store web app allows users to browse books, mark favorites, and add it
 
 ### 🖼️ Screenshot
 
-![Screenshot of the app](./screenshot.png)
+![Screenshot of the app](./bookstore.png)
 
 ### 🔗 Links
 
 - Live Site: [View Project](https://your-live-site-link.com)
-- Repository: [GitHub Repo](https://github.com/your-username/book-store-frontend)
+- Repository: [GitHub Repo](https://github.com/Ramelzkie96/bookstore)
 
 ---
 
