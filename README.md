@@ -26,8 +26,11 @@ This book store web app allows users to browse books, mark favorites, and add it
 
 ### 🔗 Links
 
-- Live Site: [View Project](https://your-live-site-link.com)
+- Live Site: [View Project](https://bookstore-websites.netlify.app/)
 - Repository: [GitHub Repo](https://github.com/Ramelzkie96/bookstore)
+- **Admin Dashboard:** Access it directly by visiting [`/admin/dashboard`](https://bookstore-websites.netlify.app/admin/dashboard)
+
+> 💡 To view the admin dashboard, either log in with the credentials below and manually navigate, or go directly to the `/admin/dashboard` URL. Take note no backend is within dashboard all are just frontend only.
 
 ---
 
